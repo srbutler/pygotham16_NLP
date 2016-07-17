@@ -1,0 +1,532 @@
+about	about
+accelerate	accelerate
+accurst	accurst
+action's	act ion 's
+adj	adj
+adult's	adult 's
+aeroplanes'	aero plane s '
+aftercare's	after care 's
+agreeably	agree ab ly
+airletters	air letter s
+alexics'	alex ic s '
+allowance's	allow ance 's
+alum	alum
+amharic's	amhar ic 's
+analects's	analects 's
+anglicanism's	anglican ism 's
+annual's	annual 's
+anthropophagous	anthropophag ous
+apathetically	a path etic ally
+appellations	appellation s
+aprils'	april s '
+archery	arch ery
+armlets	arm let s
+artier	art i er
+asphyxiation	asphyxi at ion
+assorting	assort ing
+atonal	a ton al
+audition's	audit ion 's
+autobiographically	auto bio graph ic ally, auto bio graph ical ly
+avuncular	avuncular
+bactria	bactria
+balking	balk ing
+bandoleer	bandoleer
+barbarity's	barbar ity 's
+barracuda	barracuda
+bastions	bastion s
+bazaar's	bazaar 's
+befit	be fit
+believe	believe
+beneficence's	beneficence 's
+bestiaries'	besti ari es '
+bibliophiles'	biblio phile s '
+blacklegged	black legg ed
+bleats'	bleat s '
+bludgeoning	bludgeon ing
+bolivia	bolivia
+bopper's	bopp er 's
+boulevard	boulevard
+brandying	brandy ing
+breastbone's	breast bone 's
+bridecake's	bride cake 's
+broadcasting	broad cast ing, broadcasting
+browbeating	brow beat ing
+buff	buff
+bullheadedness's	bull head ed ness 's
+burdocks	bur dock s
+bushbabies'	bush babi es '
+buzzers'	buzz er s '
+cackles	cackle s
+calendering	calender ing
+camellias	camellia s
+candelabrums	candelabrum s
+cantilevers'	cantilever s '
+cargo	cargo
+carsickness's	car sick ness 's
+castaways'	cast a way s '
+catechized	catech iz ed
+cave's	cave 's
+centaurs'	centaur s '
+chablis'	chablis '
+chancel's	chancel 's
+charismatic	charismat ic
+cheat's	cheat 's
+chessman	chess man
+chimerical	chimer ical
+chronic	chronic
+cincture	cincture
+cleavers	cleav er s
+cliquier	cliqu i er
+clotting	clott ing
+coadjutor's	coadjutor 's
+cochineal's	cochineal 's
+coercion	coerc ion
+colonizes	colon ize s
+comfits	comfit s
+commodes	commode s
+compensates	compensate s
+comprehensive's	comprehensive's
+concierges	concierge s
+conduit's	conduit 's
+confucius's	confucius 's
+connection's	connect ion 's
+consolidations'	con solid at ion s '
+consumer	consum er
+contours	contour s
+convene	convene
+copyholder	copy hold er
+corns	corn s
+corse's	corse 's
+cottontail	cotton tail
+counterpoint	counter point
+coven	coven
+crabgrass's	crab grass 's
+cravats	cravat s
+cremation	cremat ion
+crispest	crisp est
+crucially	cruc ial ly
+cubic	cub ic
+cupbearers'	cup bear er s '
+curtailment's	curtail ment 's
+cyclamates	cyclamate s
+daffodils'	daffodil s '
+dandruff's	dandruff 's
+deathlessly	dea th less ly
+deceivers'	deceiv er s '
+decor	decor
+defects	defect s
+degrees'	degree s '
+delta's	delta 's
+demoralize	de moral ize
+depilation's	depilation 's
+deride	deride
+desolating	desolat ing
+dethroned	de thron ed
+dewlap's	dew lap 's
+dictaphones'	dictaphone s '
+dildos	dildo s
+dipper's	dipp er 's
+disassociating	dis associat ing
+discounts	dis count s
+disgruntles	disgruntle s
+dismemberment's	dis member ment 's
+disputes	dispute s
+distastefulness's	dis taste ful ness 's, dis tasteful ness 's
+divergences'	divergence s '
+dockets	docket s
+dogwood	dog wood
+doorcases	door case s
+dozed	doz ed
+drawings	drawing s
+druggist	drugg ist
+dues'	due s ', dues '
+duress'	duress '
+eaglets'	eag let s ', eagl et s '
+editions	edit ion s
+eggcups	egg cup s
+elderflower's	elder flower 's
+elision's	elis ion 's
+embezzlement	embezzle ment
+emperors	emperor s
+encodes	en code s
+engine	engine
+enslaves	en slave s
+entries'	entr i es '
+epsom's	epsom 's
+eructated	eructat ed
+estimators'	estimat or s '
+evaluating	e valu at ing
+exactitude	exacti tude
+excretion	excret ion
+exiles	exile s
+expletive's	expletive 's
+extenuation	extenuat ion
+eyedrop	eye drop
+factorized	factor iz ed
+falsehood's	false hood 's
+farrier's	farrier 's
+faultily	fault i ly
+feigned	feign ed
+festivals'	fest iv al s '
+fieldmice	field mice
+filmstrips	film strip s
+firths	firth s
+flier	fli er
+florists'	flor ist s '
+flutes'	flute s '
+fold	fold
+footing's	footing 's
+foreground	fore ground
+forklift	fork lift
+fossilized	fossil iz ed
+foxhunting	fox hunt ing, foxhunting
+freshers	fresh er s
+frizzles	frizzle s
+fryer's	fry er 's
+fundamentals'	fundament al s '
+fusty	fusty
+galling	gall ing
+gap	gap
+gaslights	gas light s
+gazing	gaz ing
+gent's	gent 's
+gharry	gharry
+girders	gird er s
+glib	glib
+gluten	gluten
+godparent's	god parent 's
+goods'	goods '
+grabs'	grab s '
+granule's	granule 's
+greatest	great est
+grimaces	grimace s
+guarded	guard ed, guarded
+gullies'	gulli es '
+gutturals	guttural s
+hag	hag
+hankerings	hankering s
+harmonic's	harmon ic 's
+hatfuls	hat ful s
+headachier	head ach i er
+hearth's	hearth 's
+heehaws'	heehaw s '
+henbanes	hen bane s
+heterogeneously	heterogeneous ly
+hippos	hippo s
+hogsheads	hog s head s
+homing	hom ing, homing
+hooters	hoot er s
+horsewhips'	horse whip s '
+housefather	house father
+hungry	hungry
+hydraulics'	hydraulic s '
+idiom	idiom
+illumination	illuminat ion
+immunization	immun iz ation
+impingements'	impinge ment s '
+improbable	im probable
+inborn	in bor n
+incompetency	in compet ency
+indecipherability's	in de cipher abil ity 's
+individualists	individual ist s
+inexorably	inexorab ly
+inflow's	in flow 's
+initiate	initi ate
+inquisitively	inquisit ive ly
+inspectorships'	inspect or ship s '
+intake	in take
+interjections'	interject ion s '
+interring	interr ing
+introversion's	introvers ion 's
+invoice	invoice
+irrelevances'	ir relev ance s '
+ivies	ivi es
+janitor's	janitor 's
+jerky	jerk y
+jobber	jobb er
+joules'	joule s '
+jumble	jumble
+kappas'	kappa s '
+kibbutznik	kibbutz nik
+kinked	kink ed
+knight's	knight 's
+kris'	kris '
+laddies	ladd ie s
+lamps'	lamp s '
+lapels	lapel s
+lathes	lathe s
+laxations'	laxation s '
+learn	learn
+legalizes	legal ize s
+leprechaun's	leprechaun 's
+liability's	liabil ity 's
+lied	li ed, lied
+lights'	light s ', lights '
+linear	line ar
+liquors	liquor s
+livid	livid
+lockup's	lock up 's
+longbow	long bow
+lor	lor
+lovelorn	love lorn
+lugubriousness'	lugubrious ness '
+luxuriantly	luxuri ant ly
+madeiras	madeira s
+maids'	maid s '
+malcontented	mal content ed
+mandarin's	mandarin 's
+manometric	manometr ic
+margin's	margin 's
+marrows	marrow s
+masseuse	mass euse
+matins	matins
+maypole's	may pole 's
+mediating	mediat ing
+melodiousness's	melodi ous ness 's
+mercer's	mercer 's
+mestizos'	mestizo s '
+mezzos	mezzos
+midshipmen's	mid ship men 's
+minelaying's	mine laying 's
+misadventure's	mis ad venture 's
+misfires'	mis fire s '
+missus	missus
+mocha's	mocha 's
+molehills'	mole hill s '
+monkeys'	monkey s '
+moonier	moon i er
+morphemics	morphem ic s
+motor	motor
+mouthwashes	mouth wash es
+mulberry	mulberry
+muscatel	muscatel
+mutt's	mutt 's
+nakedness	naked ness
+nationalization	nation al iz ation
+nearsightedness'	near sight ed ness '
+negresses	negr ess es
+neuroses	neur oses
+nicer	nic er
+nile's	nile 's
+nocturne's	nocturne 's
+nonviolent	non viol ent
+notaries'	not ari es '
+nuggets'	nugget s '
+nympho	nymph o
+obliteration's	obliterat ion 's
+occidentals'	occident al s '
+offering	offer ing, offering
+okaying	okay ing
+ontology's	ontology 's
+opposing	oppos ing
+ordinal	ordinal
+orthodontics'	orthodontic s '
+outclass	out class
+outrages'	out rage s '
+overgrowths'	over grow th s '
+overstates	over state s
+oystercatchers	oyster catch er s
+pailfuls	pail ful s
+palliation's	palliat ion 's
+panjabi	panjabi
+parable	parable
+pardoning	pardon ing
+parsonages	parson age s
+passionflowers'	passion flower s '
+pathfinder's	path find er 's
+pawkiness's	pawki ness 's
+peelers'	peel er s '
+peninsula	peninsula
+perambulators'	perambulat or s '
+periphrasis	periphrasis
+persecutor's	persecut or 's
+pesos'	peso s '
+pharisaism's	pharisa ism 's
+phonecalls'	phone call s '
+physiologists'	physi olog ist s '
+pillars'	pillar s '
+pinpointed	pin point ed
+pitchers	pitch er s, pitcher s
+plainchant's	plain chant 's
+platitudinous	platitudin ous
+pleat	pleat
+plumber	plumb er
+poetaster	poetaster
+policewoman	police woman
+polypi	polypi
+portcullises'	portcullis es '
+postcard	post card
+potions	potion s
+practised	practis ed, practised
+precepts'	precept s '
+prefabrication	pre fabricat ion
+preposition	preposition
+pressganging	press gang ing
+pricked	prick ed
+prioress'	prior ess '
+procrastinate	procrastinate
+prognosis's	prognosis 's
+promptness	prompt ness
+propositions	pro pos ition s
+protester	protest er
+pruners	prun er s
+pullets'	pullet s '
+punnet	punnet
+pursues	pursue s
+pyrex's	pyrex 's
+quarantine's	quarantine 's
+questionnaires'	quest ionn aire s '
+quixote	quixote
+raconteurs'	raconteur s '
+railing's	railing 's
+ranees	ranee s
+rate's	rate 's
+reams'	ream s '
+recces	recce s
+reconcilement's	reconcile ment 's
+redbreast	red breast
+refereed	refer e ed
+refutation's	refut ation 's
+reifies	reifi es
+relict	relict
+remounts	re mount s
+repayments'	re pay ment s '
+reproached	reproach ed
+reservist	reserv ist
+responding	respond ing
+retardation	retard ation
+revalue	re value
+revolvers'	revolv er s '
+riddled	riddl ed
+rills'	rill s '
+river's	river 's
+rondo	rondo
+rota	rota
+routines'	routine s '
+rueful	rue ful
+runts	runt s
+sacking's	sack ing 's
+sages'	sage s '
+salons	salon s
+sandals'	sandal s '
+sarongs	sarong s
+sauternes	sauternes
+scalloped	scallop ed
+scientologist	scient olog ist
+scowls'	scowl s '
+scrip	scrip
+scurf's	scurf 's
+seance's	seance 's
+secretions'	secret ion s '
+sees	see s
+seneschal's	seneschal 's
+sepulchral	sepulchr al
+servitude	serv i tude
+sexton	sexton
+shamelessness	shame less ness
+sheaths'	sheath s '
+shiver's	shiver 's
+showrooms'	show room s '
+sibilant's	sibil ant 's
+siege's	siege 's
+silk	silk
+sittings'	sitting s '
+skidpans	skid pan s
+skydiving's	sky diving 's
+slavers'	slav er s '
+slim	slim
+slothfulness's	sloth ful ness 's
+smalls	small s
+sneerer	sneer er
+sociables'	sociable s '
+solariums'	solarium s '
+somnambulism	somnambul ism
+sortie's	sortie 's
+souvenir	souvenir
+spectres	spectre s
+spigot	spigot
+spivviest	spivv i est
+spools'	spool s '
+squanderer's	squander er 's
+stabilized	stabil iz ed
+staling	stal ing
+stares	stare s
+stayed	stay ed
+stiffeners	stiff en er s
+stockbreeders'	stock breed er s '
+stoolies'	stool ie s '
+straightens	straight en s
+streptomycin	streptomycin
+stupefaction	stupefact ion
+sublieutenants'	sub lieu tenant s '
+subtenants'	sub tenant s '
+suffragan's	suffragan 's
+summers'	summer s '
+suntans	sun tan s
+supplicant	supplic ant
+surprise's	surprise 's
+swanks	swank s
+swordfish	sword fish
+syndicalists	syndic al ist s
+tabors	tabor s
+tales'	tale s '
+tannin's	tannin 's
+tarsi	tarsi
+taxonomy	taxonomy
+tec's	tec's
+telephotograph	tele photo graph
+tenderfoot	tender foot
+termite's	termite 's
+thai's	thai 's
+thermoplastic's	thermo plastic 's
+thistledown's	thistle down 's
+thrives	thrive s
+thwarts	thwart s
+tigress'	tigr ess '
+ting's	ting 's
+tontines	tont ine s
+torments'	torment s '
+toughness	tough ness
+tracksuit	track suit
+trammelled	trammell ed
+transliterating	transliterat ing
+travelogue's	trave logue 's
+trendsetters'	trend sett er s '
+trilogy	trilogy
+truncate	truncate
+tulip's	tulip 's
+tweezer	tweezer
+typed	typ ed
+umpteens	umpteen s
+unctuousness'	unctu ous ness '
+undersecretaries	under secretari es
+uneventful	un event ful
+unity	unit y
+unrolls	un roll s
+uphill	up hill
+usherettes	usher ette s
+vagueness's	vague ness 's
+variance's	variance 's
+venal	venal
+vermifuge	vermifuge
+vibrancy's	vibrancy 's
+villain	villain
+viscountcy	viscount cy
+vodka	vodka
+vulgarians	vulgar ian s
+wait	wait
+want's	want 's
+warren	warren
+watchdog	watch dog
+waterlogged	water logged
+wearied	weari ed
+weighing	weigh ing
+westchester	westchester
+wherry	wherry
+widen	wid en
+winterier	winter i er
+witticisms	witt ic ism s
+woodwork	wood work
+wretchedly	wretch ed ly
+yam's	yam 's
+ziggurats'	ziggurat s '
