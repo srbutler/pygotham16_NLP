@@ -1,0 +1,6 @@
+### https://raw.github.com/github/gitignore/1d4117fefd8d58e88cdfd92ad6187e7c57ddae3e/Global/IPythonNotebook.gitignore
+
+# Temporary data
+.ipynb_checkpoints/
+
+
